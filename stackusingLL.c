@@ -12,8 +12,6 @@ void push(int data);
 void pop();
 void empty();
 void display();
-void destroy();
-void stack_count();
 void create();
  
 int count = 0;
